@@ -1,4 +1,8 @@
+Text and Image notification
+
 ![](ss.png)
+
+Dashboard to push notification to single device, all devices or selected number of random devices
 
 ![](ss2.png)
 
